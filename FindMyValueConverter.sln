@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyValueConverter.App", "FindMyValueConverter.App\FindMyValueConverter.App.csproj", "{BC191072-CB99-40FD-A65C-5458A3F61C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyValueConverter.Controls", "FindMyValueConverter.Controls\FindMyValueConverter.Controls.csproj", "{4251C59C-68AB-4214-926E-FFECCE17F4BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyValueConverter.Utils", "FindMyValueConverter.Utils\FindMyValueConverter.Utils.csproj", "{668FAEEA-16DF-457C-B1E6-9D447C61F698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC191072-CB99-40FD-A65C-5458A3F61C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC191072-CB99-40FD-A65C-5458A3F61C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC191072-CB99-40FD-A65C-5458A3F61C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC191072-CB99-40FD-A65C-5458A3F61C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4251C59C-68AB-4214-926E-FFECCE17F4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4251C59C-68AB-4214-926E-FFECCE17F4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4251C59C-68AB-4214-926E-FFECCE17F4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4251C59C-68AB-4214-926E-FFECCE17F4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668FAEEA-16DF-457C-B1E6-9D447C61F698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668FAEEA-16DF-457C-B1E6-9D447C61F698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668FAEEA-16DF-457C-B1E6-9D447C61F698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668FAEEA-16DF-457C-B1E6-9D447C61F698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
