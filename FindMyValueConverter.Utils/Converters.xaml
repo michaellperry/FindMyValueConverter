@@ -4,4 +4,5 @@
     xmlns:Utils="clr-namespace:FindMyValueConverter.Utils">
 
     <Utils:VisibleWhenTrueConverter x:Key="VisibleWhenTrueConverter"/>
+    <SolidColorBrush x:Key="NotFound">Black</SolidColorBrush>
 </ResourceDictionary>
