@@ -1,8 +1,9 @@
 ﻿<ResourceDictionary
 	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
-	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Utils="clr-namespace:FindMyValueConverter.Utils">
 
     <ResourceDictionary.MergedDictionaries>
-        <ResourceDictionary Source="DeepConverters.xaml"/>
+        <ResourceDictionary Source="DeeperConverters.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
